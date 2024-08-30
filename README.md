@@ -2,8 +2,6 @@
   <img src="https://user-images.githubusercontent.com/91209271/137887615-544a7f61-5ceb-4c49-9761-f343fe9b0550.png" alt="Sublime's custom image"/>
 </p>
 
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-sordetti&count_private=true&theme=react&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-sordetti&theme=react&hide_border=true)
 
 
